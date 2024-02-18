@@ -12,5 +12,25 @@ Error Handling and Validation: Robust error handling and input validation ensure
 ## Prerequisites
 GCC compiler or any C compiler installed on your system.
 Basic knowledge of command-line operations.
-Compilation
+
+## Compilation
 To compile the application, navigate to the project directory in your terminal and run the following command:
+gcc main.c todoList.c -o todoListApp
+This will generate an executable named "todoListApp".
+
+## Running the Application
+To run the application, use the following command in the terminal:
+./todoListApp
+Follow the on-screen prompts to manage your tasks.
+
+## Contributing
+Contributions to enhance the application are welcome! Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated. Please feel free to fork the repository and submit pull requests.
+
+## License
+This project is open-source and available under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+Special thanks to the C programming community for the invaluable resources and guides.
+Thank you to all contributors who help in improving and maintaining the project.
+
+# Start managing your tasks more effectively today with this simple yet powerful To-Do List application!
